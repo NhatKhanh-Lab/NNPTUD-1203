@@ -1,5 +1,3 @@
-# Đồ án lập trình API quản lý User và Role
-
 **Thông tin sinh viên:**
 - **Họ và tên:** Võ Nhật Khánh
 - **MSSV:** 2280601481
